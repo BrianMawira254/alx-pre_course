@@ -1,2 +1,2 @@
 Second readme
-My First day dealing with git
+my first day dealing with git
