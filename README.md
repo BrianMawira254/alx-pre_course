@@ -1,2 +1,3 @@
-Second readme
-my first day dealing with git
+
+                Introductions to Git and ALX 
+             learning the basics of bash, git and software engineering 
